@@ -1,0 +1,32 @@
+{
+  "name": "server-side-node",
+  "version": "1.0.0",
+  "description": "This is the data selfie app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon client/index.js"
+  },
+  "keywords": [
+    "example",
+    "data"
+  ],
+  "author": "Gera",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "mongodb": "^3.5.4",
+    "monk": "^7.1.2",
+    "morgan": "^1.9.1",
+    "nedb": "^1.8.0",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-bake": "^1.9.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}

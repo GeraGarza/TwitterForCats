@@ -9,6 +9,8 @@ Uses Monk, Grunt, express
 //  npm install jquery,popper, then bootstrap
 //  https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch 
 //  https://expressjs.com/en/4x/api.html#express routing,getting,posting,etc.
+//  npm install bad-words
+//  npm install express-rate-limit
 
 //  npm install grunt --save-dev
 //  npm install -g grunt-cli
@@ -20,6 +22,8 @@ Uses Monk, Grunt, express
 //  npm run dev // updates server consistently 
 //  live-server // to run front end on 8080 (client)
 
+
+// https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 // mongod --dbpath=/data --port 27017
 //  mongoDB --> monk
 //  npm install mongodb
